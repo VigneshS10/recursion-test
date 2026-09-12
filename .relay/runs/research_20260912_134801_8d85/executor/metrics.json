@@ -1,0 +1,18 @@
+{
+  "run_id": "research_20260912_134801_8d85",
+  "status": "structural_limitation",
+  "manifest_run_id_verified": true,
+  "fetched_branch": "main",
+  "fetched_head": "8f7170a",
+  "tracked_file_count": 18,
+  "policy_checkpoint_count": 0,
+  "implementation_candidate_count": 0,
+  "conditions_evaluated": 0,
+  "conditions_required": 4,
+  "matched_seeds_per_condition": 0,
+  "rollouts": 0,
+  "formal_verifier_runs": 0,
+  "adaptive_refinement_rounds": 0,
+  "claim": "Experiment not executable because the fetched repository lacks the environment, trained policy, abstraction, certificate, and verifier pipeline."
+}
+
