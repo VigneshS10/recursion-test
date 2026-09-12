@@ -1,0 +1,17 @@
+{
+  "run_id": "research_20260912_135333_3d5a",
+  "status": "structural_limitation",
+  "manifest_run_id_verified": true,
+  "fetched_branch": "main",
+  "fetched_head": "dd4c888",
+  "tracked_file_count": 23,
+  "policy_or_certificate_checkpoint_count": 0,
+  "implementation_candidate_count": 0,
+  "lip_or_verifier_term_file_count": 0,
+  "conditions_evaluated": 0,
+  "conditions_required": 4,
+  "formal_verifier_runs": 0,
+  "boxes_evaluated": 0,
+  "claim": "The fixed policy, certificate, verifier, and Lipschitz-bound pipeline required for the study is absent from the fetched repository."
+}
+
