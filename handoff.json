@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "handoff_id": "artifact_20260911_214135_ba8e",
+  "status": "ready",
+  "attach_to_chatgpt": [
+    "RESULT.md",
+    "metrics.json",
+    "plot.png"
+  ]
+}
