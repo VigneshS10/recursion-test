@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "run_id": "research_20260912_135333_3d5a",
+  "evidence_nonce": "18dd17e552754ac981a6251b45d036cb",
+  "status": "reviewed",
+  "decision": "blocked",
+  "review": "REVIEW.md",
+  "next_task": "NEXT_TASK.md"
+}
