@@ -1,0 +1,1 @@
+Prepared XOR relay research task and executor prompt for research_20260912_xor_a4c9.
