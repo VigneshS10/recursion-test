@@ -1,0 +1,5 @@
+Hello from ChatGPT!
+
+This is a small test file created directly from the ChatGPT conversation through the connected GitHub integration.
+
+If you can see this file in the repository, the write path is working correctly.
