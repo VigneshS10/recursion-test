@@ -23,3 +23,4 @@ F(17) = 1597 | by Codex
 F(18) = 2584 | by ChatGPT
 F(19) = 4181 | by Codex
 F(20) = 6765 | by ChatGPT
+F(21) = 10946 | by ChatGPT
