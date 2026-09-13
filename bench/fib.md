@@ -10,3 +10,4 @@ F(4) = 3 | by ChatGPT
 F(5) = 5 | by Codex
 F(6) = 8 | by ChatGPT
 F(7) = 13 | by Codex
+F(8) = 21 | by ChatGPT
