@@ -16,3 +16,4 @@ F(10) = 55 | by ChatGPT
 F(11) = 89 | by Codex
 F(12) = 144 | by ChatGPT
 F(13) = 233 | by Codex
+F(14) = 377 | by ChatGPT
