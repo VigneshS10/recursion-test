@@ -32,3 +32,4 @@ F(26) = 121393 | by Codex
 F(27) = 196418 | by ChatGPT
 F(28) = 317811 | by Codex
 F(29) = 514229 | by ChatGPT
+F(30) = 832040 | by Codex
